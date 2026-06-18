@@ -4,7 +4,7 @@ This is a bot_ai addon for Garry's Mod. The addon allows the user to control ulx
 bot_ai_menu
 
 # Bot commands:
-bot_follow "Bot Name"
+bot_follow "Bot Name" <br>
 bot_drive "Bot Name"
 bot_jump "Bot Name"
 bot_view "Bot Name"
