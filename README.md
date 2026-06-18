@@ -1,17 +1,17 @@
 This is a bot_ai addon for Garry's Mod. The addon allows the user to control ulx bots with a GUI console as well as with console commands.
 
-# Bot AI menu command:
+# Bot AI menu command: <br>
 bot_ai_menu
 
 # Bot commands:
 bot_follow "Bot Name" <br>
-bot_drive "Bot Name"
-bot_jump "Bot Name"
-bot_view "Bot Name"
-bot_freeze "Bot Name"
-bot_dance "Bot Name"
-bot_muscle "Bot Name"
-bot_crazy "Bot Name"
+bot_drive "Bot Name" <br>
+bot_jump "Bot Name" <br>
+bot_view "Bot Name" <br>
+bot_freeze "Bot Name" <br>
+bot_dance "Bot Name" <br>
+bot_muscle "Bot Name" <br>
+bot_crazy "Bot Name" <br>
 
 The MIT License (MIT)
 
