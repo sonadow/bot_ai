@@ -1,5 +1,5 @@
 # Description:
-This is a bot_ai addon for Garry's Mod. The addon allows the user to control ulx bots with a GUI console as well as with console commands. The addon was developed with AI, and then the code was tweaked by a person.
+This is a bot_ai addon for Garry's Mod. The addon allows the user to control ulx bots with a GUI console as well as with console commands. The addon was developed with AI, and then the code was tweaked by me.
 
 # Bot AI menu command: <br>
 bot_ai_menu
