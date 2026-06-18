@@ -12,7 +12,9 @@ bot_freeze "Bot Name" <br>
 bot_dance "Bot Name" <br>
 bot_muscle "Bot Name" <br>
 bot_crazy "Bot Name" <br>
-
+<br>
+<br>
+<br>
 The MIT License (MIT)
 
 Copyright (c) <2026> <copyright Shadz>
