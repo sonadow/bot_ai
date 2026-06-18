@@ -15,7 +15,7 @@ bot_crazy "Bot Name" <br>
 <br>
 <br>
 <br>
-The MIT License (MIT)
+# The MIT License (MIT)
 
 Copyright (c) <2026> <copyright Shadz>
 
