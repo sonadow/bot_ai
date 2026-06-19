@@ -1,5 +1,5 @@
 # Description:
-Bot control addon for a Garry's Mod - dedicated server. The addon allows the user to control ulx bots with a GUI console as well as with console commands. The addon was developed with AI, and then the code was tweaked by me.
+This is a bot control addon for a Garry's Mod - dedicated server. The addon allows the user to control ulx bots with a GUI console as well as with console commands. The addon was developed with AI, and then the code was tweaked by me.
 
 # Bot AI menu command: <br>
 bot_ai_menu
